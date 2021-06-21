@@ -1,2 +1,0 @@
-# pneumonia-xray-ml-model
-https://camo.githubusercontent.com/f0e802459beeb4296bed5f1bdda0171f119401ba51bef43435b5f6dad1b7da80/68747470733a2f2f692e696d6775722e636f6d2f6a5a71705635312e706e67
